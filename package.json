@@ -1,0 +1,22 @@
+{
+  "name": "goiteens-js-hw_09-local",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitroOmelianenko/goiteens-js-hw_09-local.git"
+  },
+  "keywords": [
+    "hw"
+  ],
+  "author": "Dmitro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitroOmelianenko/goiteens-js-hw_09-local/issues"
+  },
+  "homepage": "https://github.com/DmitroOmelianenko/goiteens-js-hw_09-local#readme"
+}
